@@ -1,2 +1,3 @@
 # git-dag-integration-tests
-A tmp repo to store integration test references for git-dag
+
+Store integration test references for git-dag. This is a temporary hack.
